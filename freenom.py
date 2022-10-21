@@ -2,6 +2,7 @@
 # _*_ coding:utf-8 _*_
 
 # 觉得好用请点 *star*，作者仓库:https://github.com/rpgrpg/freenom-qinglong.git
+# https://raw.githubusercontent.com/rpgrpg/freenom-qinglong/main/freenom.py
 
 '''
 cron: 33 7 * * 2,5
